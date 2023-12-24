@@ -2,7 +2,7 @@ import time
 import json
 from vars import *
 from tokens import *
-from tqdm import tqdm
+import tqdm
 from datetime import datetime
 import requests
 from urllib.parse import urlencode
